@@ -1,7 +1,7 @@
 <h1>Hi, I'm Nickz! <br/><a href="https://github.com/LazyNickz">Programmer</a>, <a href="https://www.linkedin.com/in/lazynickz/">AI Automation specialist</a>
   
 - <b>eCommerce Website Practice</b>
-  - [Praciting HTML,CSS,JAVASCRIPT](https://github.com/LazyNickz/novacart)
+  - [Practicing HTML,CSS,JAVASCRIPT](https://github.com/LazyNickz/novacart)
 - <b>AI Automation Projects</b>
   - [AI Academic Chatbot](https://github.com/LazyNickz/AIchatBOT)
   - [Reels Shorts tiktok AI Automation](https://github.com/LazyNickz/automation) 
