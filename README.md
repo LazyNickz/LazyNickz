@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nickz! <br/><a href="https://github.com/LazyNickz">Programmer</a>, <a href="https://www.linkedin.com/in/lazynickz/">AI Automation specialist</a>
+<h1>Hi, I'm Nickz! <br/><a href="https://github.com/LazyNickz">Programmer</a>, <a href="https://www.linkedin.com/in/lazynickz/">AI Automation specialist</a></h1>
   
 - <b>eCommerce Website Practice</b>
   - [Practicing HTML,CSS,JAVASCRIPT](https://github.com/LazyNickz/novacart)
