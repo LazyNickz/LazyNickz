@@ -11,11 +11,13 @@
 
 <h2><b>📰 Credentials & Badge</b></h2>
 
-- [Network Addressing and Basic Troubleshooting](https://www.credly.com/badges/649bfb83-db11-4642-bdb6-c289a98e56c4/public_url)
-
 - [Artificial Intelligence Fundamentals](https://www.credly.com/badges/0e1c549a-d33e-4461-b51e-36c5a2dc9f59/public_url)
 
+- [AI Chatbots, RAG, & Governance with Data Workflows](https://www.credly.com/badges/c5e89d32-37d5-4b39-b5f0-11aa65a7f279/public_url)
+
 - [Cloud Computing Fundamentals](https://www.credly.com/badges/33151e54-2181-40ec-95cc-2daf4b83cae0/public_url)
+
+- [Network Addressing and Basic Troubleshooting](https://www.credly.com/badges/649bfb83-db11-4642-bdb6-c289a98e56c4/public_url)
 
 - [Cybersecurity Fundamentals](https://www.credly.com/badges/544fda32-7995-413d-9673-83f7c08c965a/public_url)
 
