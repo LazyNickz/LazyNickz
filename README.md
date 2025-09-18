@@ -7,8 +7,8 @@
   - [Reels Shorts tiktok AI Automation](https://github.com/LazyNickz/automation) 
 
 <h2> 🤳 Connect with me:</h2>
- - [EMAIL](nicolebautista423@gmail.com) 
- - [LINKEDIN](https://www.linkedin.com/in/lazynickz/) 
+  - [EMAIL](nicolebautista423@gmail.com) 
+  - [LINKEDIN](https://www.linkedin.com/in/lazynickz/) 
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
