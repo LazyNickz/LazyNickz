@@ -9,7 +9,7 @@
 - [AI Academic Chatbot](https://github.com/LazyNickz/AIchatBOT)
 - [Reels Shorts tiktok AI Automation](https://github.com/LazyNickz/automation)
 
-<h2><b>📄 Credentials & Certification</b></h2>
+<h2><b>📰 Credentials & Badge</b></h2>
 
 - [Network Addressing and Basic Troubleshooting](https://www.credly.com/badges/649bfb83-db11-4642-bdb6-c289a98e56c4/public_url)
 
@@ -22,6 +22,14 @@
 - [Fundamentals of Sustainability and Technology](https://www.credly.com/badges/bbff7b04-6d82-45c5-bc47-6f0cb7e62967/public_url)
 
 - [Explore Emerging Tech](https://www.credly.com/badges/81d70f79-44ce-4954-9006-5d73382b142d/public_url)
+
+<h2><b>📄 Certification </b></h2>
+
+- [Basic Website Development](https://lspu.codechum.com/certificates/10136)
+
+- [Information Management](https://lspu.codechum.com/certificates/10119)
+
+
 
 
 
