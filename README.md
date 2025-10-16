@@ -24,6 +24,8 @@
 - [Fundamentals of Sustainability and Technology](https://www.credly.com/badges/bbff7b04-6d82-45c5-bc47-6f0cb7e62967/public_url)
 
 - [Explore Emerging Tech](https://www.credly.com/badges/81d70f79-44ce-4954-9006-5d73382b142d/public_url)
+  
+- [Ethical Hacker](https://www.credly.com/badges/8c20f929-13b3-4eab-b84e-c9f053520fea/public_url)
 
 <h2><b>📄 Certification </b></h2>
 
