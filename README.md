@@ -27,6 +27,8 @@
   
 - [Ethical Hacker](https://www.credly.com/badges/8c20f929-13b3-4eab-b84e-c9f053520fea/public_url)
 
+- [Enterprise Design Thinking Practitioner](https://www.credly.com/badges/b5d9ac85-3228-4108-a3bf-d44d680822b9/public_url)
+
 <h2><b>📄 Certification </b></h2>
 
 - [Basic Website Development](https://lspu.codechum.com/certificates/10136)
