@@ -29,6 +29,8 @@
 
 - [Enterprise Design Thinking Practitioner](https://www.credly.com/badges/b5d9ac85-3228-4108-a3bf-d44d680822b9/public_url)
 
+- [Development with AI and Web Services](https://www.credly.com/badges/59d88af3-c7ce-400e-8f43-437600363cad/public_url)
+
 <h2><b>📄 Certification </b></h2>
 
 - [Basic Website Development](https://lspu.codechum.com/certificates/10136)
