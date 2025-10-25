@@ -31,6 +31,8 @@
 
 - [Development with AI and Web Services](https://www.credly.com/badges/59d88af3-c7ce-400e-8f43-437600363cad/public_url)
 
+- [Build Your Own Chatbot - Level 1](https://www.credly.com/badges/adddd81b-6ddc-405e-a065-30e573464824/public_url)
+
 <h2><b>📄 Certification </b></h2>
 
 - [Basic Website Development](https://lspu.codechum.com/certificates/10136)
